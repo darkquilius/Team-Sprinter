@@ -7,7 +7,7 @@
     Team Sprinter
     
 #### Deployment:
-    https://darkquilius.github.io/Weather-Dashboard/
+    https://trackitproject.herokuapp.com/
     
 #### Description:
     This application enhances you and your team's ability to get through those tough team sprints by creating a 
